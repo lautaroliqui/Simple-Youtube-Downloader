@@ -22,7 +22,7 @@ Una aplicación de escritorio moderna y ligera para descargar videos y playlists
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO/TU_REPO.git](https://github.com/TU_USUARIO/TU_REPO.git)
+    git clone https://github.com/lautaroliqui/simple-youtube-downloader.git
     cd TU_REPO
     ```
 
