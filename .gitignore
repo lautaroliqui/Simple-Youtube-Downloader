@@ -1,0 +1,19 @@
+# --- Archivos de Sistema y Entorno ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# --- Archivos de Configuración Personal ---
+config.ini
+cookies.txt
+
+# --- Archivos Generados / Compilación ---
+build/
+dist/
+*.spec
+bin/
+
+# --- Logs y Errores ---
+*.log
+*.err
